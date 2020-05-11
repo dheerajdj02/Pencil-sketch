@@ -11,11 +11,15 @@ Pencil sketch made using image or live video
  ### Change the value to get more accurate
  
    canny_edges = cv2.Canny(img_gray_blur, 10, 70)
-     Changeing the value in canny get more edges
+   
+   ![Test Image 1] (sektch)
+   
+   Changeing the value in canny get more edges
+   
      
      
      
 
 
    canny_edges = cv2.Canny(img_gray_blur, 5, 50)
-
+  
