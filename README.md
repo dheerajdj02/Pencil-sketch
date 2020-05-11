@@ -9,7 +9,8 @@ Pencil sketch made using image or live video
   - keras
   - numpy
   - matplotlib
-  Install above library using pip or conda
+  
+    Install above library using pip or conda
   
 ### Change the value to get more accurate
  
